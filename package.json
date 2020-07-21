@@ -53,7 +53,7 @@
     "rework": "^1.0.1",
     "rework-npm": "^1.0.0",
     "rework-npm-cli": "^0.1.1",
-    "serve": "^1.4.0",
+    "serve": "^11.3.2",
     "uglify-js": "^2.4.15",
     "watchify": "^2.1.1"
   }
