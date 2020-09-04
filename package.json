@@ -37,7 +37,7 @@
     "bootstrap": "^3.3.0",
     "flux": "^2.0.1",
     "jwt-decode": "^1.1.0",
-    "react": "^0.13",
+    "react": "^15.6",
     "react-mixin": "^1.1.0",
     "react-router": "^0.13.2",
     "reqwest": "^1.1.5",
